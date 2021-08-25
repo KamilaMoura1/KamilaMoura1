@@ -1,7 +1,7 @@
 ## Hello, stranger! Eu sou a Kamila Moura! 👾
 
 - 🔭 Em transição de carreira.
-- 🌱 Participando de um Bootcamp - Front-End Developer - Laboratória.
+- 🌱 Estudante da Laboratória - Front-End Developer.
 - 📫 Contacte-me pelo e-mail: kamila.demoura93@gmail.com
 - 😄 Pronouns: ela/she/ella.
 
