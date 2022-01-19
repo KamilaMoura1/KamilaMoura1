@@ -19,6 +19,7 @@
   <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-plain.svg">
 </div>
   
   ##
